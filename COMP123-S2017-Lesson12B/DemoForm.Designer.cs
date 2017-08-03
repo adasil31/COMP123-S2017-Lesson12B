@@ -1,6 +1,12 @@
 ﻿namespace COMP123_S2017_Lesson12B
 {
-    partial class Form1
+    //Partial is new class to learn//
+    /* Name: Alessandro Santos
+ * Student Id: 300927354
+ * Date: Augusto 03-2017
+ * Description: Demo application windows form
+ * version 0.1 - Project was created*/
+    partial class DemoForm
     {
         /// <summary>
         /// Required designer variable.
